@@ -1,0 +1,13 @@
+Destination:                            Queue 'q/main/app1'
+CorrelationId:                          102
+Priority:                               4
+Class Of Service:                       USER_COS_1
+DeliveryMode:                           NON_PERSISTENT
+Message Id:                             173
+DMQ Eligible
+User Property Map:                      1 entries
+Replication Group Message ID:           rmid1:4079e-2055670de3c-00000000-000000ad
+Binary Attachment:                      len=18
+content: test q browsing
+-----------------------------------------------------------
+
